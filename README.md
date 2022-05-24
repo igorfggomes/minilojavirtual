@@ -1,2 +1,2 @@
-# mini-loja-virtual
-Mini Loja Virtual (sistema de carrinho) desenvolvido com HTML5, CSS3 e JavaScript.
+# virtual-mini-store
+Virtual Mini Store (cart system) made with HTML5, CSS3 and JavaScript.
